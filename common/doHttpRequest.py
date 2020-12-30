@@ -26,4 +26,5 @@ class HttpRequestHandel(object):
 			return 0
 
 
+
 HttpRequestHandel = HttpRequestHandel()
